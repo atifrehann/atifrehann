@@ -98,7 +98,7 @@ Currently Learning:
 
 <p>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=kali,burpsuite,wireshark,nmap,nessus,splunk, metasploit"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kali,burpsuite,wireshark,nmap,nessus,splunk,metasploit"/>
 
 </p>
 
