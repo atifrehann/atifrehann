@@ -241,7 +241,7 @@ Currently Learning:
 
 <p align="center">
 
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/atif-rehan-shaik-/)">
+<a href="https://www.linkedin.com/in/atif-rehan-shaik-/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
