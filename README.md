@@ -6,9 +6,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00ff88&style=for-the-badge" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)]([YOUR_LINKEDIN](https://www.linkedin.com/in/atif-rehan-shaik-/))
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:atifrehan512@gmail.com)
 
 </div>
 
@@ -242,11 +241,11 @@ Currently Learning:
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/atif-rehan-shaik-/)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:atifrehan512@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
