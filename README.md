@@ -54,11 +54,27 @@ Currently Learning:
 
 # 💻 Tech Stack
 
+## Security Tools
+
+<p>
+
+
+
+<img src="https://skillicons.dev/icons?i=linux,bash"/>
+
+<br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kali,burpsuite,wireshark,nmap,metasploit,splunk,nessus"/>
+
+
+</p>
+
+
 ## Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,bash"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts"/>
 
 </p>
 
@@ -90,24 +106,10 @@ Currently Learning:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
 
 </p>
 
-## Security Tools
-
-<p>
-
-
-
-<img src="https://skillicons.dev/icons?i=linux,bash"/>
-
-<br>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=kali,burpsuite,wireshark,nmap,metasploit,splunk,nessus"/>
-
-
-</p>
 
 ---
 
