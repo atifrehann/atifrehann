@@ -98,15 +98,15 @@ Currently Learning:
 
 <p>
 
-<p align="left">
+
 
 <img src="https://skillicons.dev/icons?i=linux,bash"/>
 
-<br><br>
+<br>
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=kali,burpsuite,wireshark,nmap,metasploit,splunk,nessus"/>
 
-</p>
+
 </p>
 
 ---
