@@ -1,4 +1,4 @@
-About Me:
+About Me:<br>
 Name: S. Atif Rehan<br>Role: Associate Cybersecurity Analyst<br>Certification: Certified Ethical Hacker (CEH)<br>Location: India<br><br>Focus:<br>  - Offensive Security<br>  - Threat Detection<br>  - Incident Response<br>  - Secure Software Development<br>  - AI for Cybersecurity<br><br>Currently Learning:<br>  - Detection Engineering<br>  - Malware Analysis<br>  - Active Directory<br>  - Cloud Security<br>  - Threat Hunting
 
 
