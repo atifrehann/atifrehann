@@ -1,23 +1,265 @@
-About Me:<br>
-Name: S. Atif Rehan<br>Role: Associate Cybersecurity Analyst<br>Certification: Certified Ethical Hacker (CEH)<br>Location: India<br><br>Focus:<br>  - Offensive Security<br>  - Threat Detection<br>  - Incident Response<br>  - Secure Software Development<br>  - AI for Cybersecurity<br><br>Currently Learning:<br>  - Detection Engineering<br>  - Malware Analysis<br>  - Active Directory<br>  - Cloud Security<br>  - Threat Hunting
+<div align="center">
 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Atif Rehan
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/atif-rehan-shaik-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atifrehan512@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Certified+Ethical+Hacker+(CEH+v13);Cybersecurity+Analyst;VAPT+Engineer;SOC+Analyst;Penetration+Tester;Always+Learning+New+Things" />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=atifrehann&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=atifrehann&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=atifrehann&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00ff88&style=for-the-badge" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=atifrehann&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:YOUR_EMAIL)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->!--
-**atifrehann/atifrehann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
+# 💀 About Me
+
+```yaml
+Name: Atif Rehan
+Role: Cybersecurity Analyst | Penetration Tester
+Education: B.Tech in Cyber Security
+Certification: Certified Ethical Hacker (CEH v13)
+
+Location: Hyderabad, India
+
+Focus:
+  - Web Application Penetration Testing
+  - Vulnerability Assessment
+  - SOC Operations
+  - Security Monitoring
+  - Offensive Security
+  - Network Security
+
+Currently Learning:
+  - Malware Analysis
+  - Active Directory Security
+  - Detection Engineering
+  - Cloud Security
+  - Threat Hunting
+```
+
+---
+
+# 🚀 Current Mission
+
+- 🛡 Strengthening Offensive Security Skills
+- 🔍 Learning Advanced SOC Operations
+- ⚔ Practicing Web & API Penetration Testing
+- ☁ Exploring Cloud Security
+- 🤖 AI for Cybersecurity
+- 🧠 Solving CTF Challenges
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,bash"/>
+
+</p>
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet"/>
+
+</p>
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
+</p>
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux"/>
+
+</p>
+
+## Security Tools
+
+<p>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kali,burpsuite,wireshark,nmap"/>
+
+</p>
+
+---
+
+# 🛡 Cybersecurity Skills
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🔴 Offensive Security
+
+- Web Application Penetration Testing
+- API Security Testing
+- Vulnerability Assessment
+- OWASP Top 10
+- CVSS Scoring
+- Network Enumeration
+- OSINT
+- Burp Suite
+- Nmap
+- Nikto
+- WPScan
+- Metasploit
+- Nuclei
+
+</td>
+
+<td width="50%">
+
+## 🔵 Blue Team
+
+- Splunk SIEM
+- Log Analysis
+- Windows Event Monitoring
+- Alert Creation
+- Dashboard Creation
+- Incident Response
+- Threat Hunting
+- MITRE ATT&CK
+- Security Monitoring
+- EDR Fundamentals
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎓 Experience
+
+## Security Analyst
+
+- Security Monitoring
+- Incident Investigation
+- Splunk Dashboard Development
+- Alert Rule Creation
+- Windows Event Log Analysis
+- Threat Detection
+
+### VAPT Experience
+
+- Performed Web Application Security Assessments
+- API Security Testing
+- Network Security Assessment
+- Vulnerability Validation
+- Security Report Writing
+- CVSS Risk Assessment
+
+---
+
+# 🏆 Certifications
+
+🏅 Certified Ethical Hacker (CEH v13)
+
+🏅 SQL Injection Micro Certification
+
+🏅 Android Bug Bounty Micro Certification
+
+🏅 EC-Council Certified Programs
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Land a Cybersecurity Analyst Role
+- 🛡 Master Web & API Penetration Testing
+- 🔍 Become an Advanced SOC Analyst
+- ☁ Learn Cloud Security
+- 📚 Contribute to Open Source Security Projects
+- 🏅 Earn OSCP Certification
+- 🤖 Build AI-powered Security Tools
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⚡ Favorite Quote
+
+> **"The quieter you become, the more you are able to hear."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:0066FF&height=120&section=footer"/>
+
+</div>
