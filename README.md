@@ -62,8 +62,6 @@ Currently Learning:
 
 <img src="https://skillicons.dev/icons?i=linux,bash"/>
 
-<br>
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=kali,burpsuite,wireshark,nmap,metasploit,splunk,nessus"/>
 
 
