@@ -1,10 +1,10 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Atif Rehan
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm S. Atif Rehan
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Certified+Ethical+Hacker+(CEH+v13);Cybersecurity+Analyst;VAPT+Engineer;SOC+Analyst;Penetration+Tester;Always+Learning+New+Things" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00ff88&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=atifrehann&label=Profile%20Views&color=00ff88&style=for-the-badge" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/atif-rehan-shaik-/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:atifrehan512@gmail.com)
@@ -16,12 +16,12 @@
 # 💀 About Me
 
 ```yaml
-Name: Atif Rehan
+Name: S. Atif Rehan
 Role: Cybersecurity Analyst | Penetration Tester
 Education: B.Tech in Cyber Security
 Certification: Certified Ethical Hacker (CEH v13)
 
-Location: Hyderabad, India
+Location: Bengaluru, India
 
 Focus:
   - Web Application Penetration Testing
@@ -74,7 +74,7 @@ Currently Learning:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 
 </p>
 
@@ -82,7 +82,7 @@ Currently Learning:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
 
@@ -98,7 +98,7 @@ Currently Learning:
 
 <p>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=kali,burpsuite,wireshark,nmap"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kali,burpsuite,wireshark,nmap,nessus,splunk, metasploit"/>
 
 </p>
 
